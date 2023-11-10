@@ -1,0 +1,23 @@
+body {
+    background-color:rgb(242, 238, 231);
+    font-family: Cambria, Georgia, 'Times New Roman', serif;
+}
+
+h1 {
+    font-size: 38px;
+    font-weight: 800;
+}
+
+h2, h3 {
+    font-size: 28px;
+    font-weight: 600;
+}
+
+h4, h5, h6 {
+    font-size: 20px;
+    font-weight: 600;
+}
+
+li {
+    list-style-type: decimal;
+}
